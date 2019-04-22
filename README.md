@@ -1,2 +1,10 @@
 # HistroyHotEvent
-historyhotevent projrct ,which concentrate on the dayily hot event covers the time range from 2004 to 2019, 16 years in total，从2004年至2019年共16年的每日热点项目。
+historyhotevent project ,which concentrate on the dayily hot event covers the time range from 2004 to 2019, 16 years in total，从2004年至2019年共16年的每日热点项目。
+# 项目介绍
+热点挖掘是舆情分析中十分重要的内容之一，热点刻画了目前我们所生活的社会发展状况。热点从类型上来说，包括热点实体以及热点事件两种，前者主要围绕着热点的实体展开，包括热点人物、热点电影、热点电视剧、热点经典等，描述的是人类对某种事物物体的关注程度。热点事件则在语义上较热点实体更为丰富，往往包括什么人做了什么事情，引起社会的强烈关注。后者的存现载体主要有热点微博，热点新闻等，
+
+从热点的任务角度上来说，热点挖掘包括热点的表示，热点的发现，热点的演化追踪共三个方面的内容。其中，概括性事件表示上，大多使用话题挖掘的方式，使用热点标签词或短语进行热点表示，还是停留在一个较为抽象的层级上。
+目前学界关于该热点的任务主要有TDT话题检测语追踪项目以及timeline和storyline的工作，其中如何自动挖掘和生成storyline是目前热点挖掘的重点，同时也是难点所在。
+
+
+
